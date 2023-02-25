@@ -1,3 +1,4 @@
+# рабочая программа
 import cv2
 import mediapipe as mp
 import pyautogui as pag
